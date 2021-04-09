@@ -1,0 +1,54 @@
+[
+  {
+    "target_product_id": null,
+    "product_id": "CSTSK8HiC:U",
+    "product_system_id": "s-0046e47a-5628-4b36-81b4-9f6e62dae3bd",
+    "parent_id": null,
+    "parent_system_id": null,
+    "APPLICABLE STANDARD ATTRIBUTES": [
+      "min-order-quantity",
+      "searchable-flag",
+      "searchable-if-unavailable-flag",
+      "online-flag",
+      "product-set-products",
+      "short-description",
+      "output-product-type",
+      "any-custom-attributes"
+    ],
+    "APPLICABLE CUSTOM ATTRIBUTES": [
+      "mc_custom_attribute_48",
+      "mc_custom_attribute_48",
+      "mc_custom_attribute_48",
+      "mc_custom_attribute_48"
+    ],
+    "REQUIRED CUSTOM ATTRIBUTES": [
+      "mc_custom_attribute_9",
+      "mc_custom_attribute_10",
+      "mc_custom_attribute_43"
+    ],
+    "OUTPUT PRODUCT TYPE": [
+      "Look Product"
+    ],
+    "min-order-quantity": [
+      "1"
+    ],
+    "online-flag": [
+      "{\"vans_us\"=>\"true\",\"vans_ca\"=>\"true\"}"
+    ],
+    "searchable-flag": [
+      "{\"vans_us\"=>\"false\",\"vans_ca\"=>\"false\"}"
+    ],
+    "searchable-if-unavailable-flag": [
+      "{\"vans_us\"=>\"false\",\"vans_ca\"=>\"false\"}"
+    ],
+    "style": [
+      "CSTSK8Hi"
+    ],
+    "product-set-products": [
+      "VN0A4OE5NTV"
+    ],
+    "isCustoms": [
+      "true"
+    ]
+  }
+]
